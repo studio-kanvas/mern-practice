@@ -3,8 +3,7 @@
   "description": "ReactJS CRUD Boilerplate",
   "version": "0.0.2",
   "private": false,
-  "repository": "https://github.com/ariesmcrae/reactjs-crud-boilerplate.git",
-  "author": "Aries McRae <github@ariesmcrae.com>",
+  "author": "Ben Kang",
   "license": "MIT",
   "keywords": [
     "Boilerplate",
